@@ -1,5 +1,5 @@
 # course-project-relevantPersons
-Showcases my ability to create create and manage: components, state, authentication, handlers, class, and more.
+Showcases my ability to create and manage: components, state, handlers, class, and more.
 
 This is assuming you have started an application using terminal and npm before.
 
